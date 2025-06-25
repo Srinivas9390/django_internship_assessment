@@ -1,0 +1,1 @@
+# django_internship_assessment
